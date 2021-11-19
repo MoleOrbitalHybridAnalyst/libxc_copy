@@ -22,7 +22,7 @@
 #define XC_GGA_X_LAMBDA_OC2_N  40 /* lambda_OC2(N) version of PBE                   */
 #define XC_GGA_X_BCGP          38 /* Burke, Cancio, Gould, and Pittalis             */
 #define XC_GGA_X_PBEFE        265 /* PBE for formation energies                     */
-#define XC_GGA_X_PBE_RR       800 
+#define XC_GGA_X_PBE_RR       800 /* revrevPBE by Chenghan                          */
 
 typedef struct{
   double kappa, mu;
