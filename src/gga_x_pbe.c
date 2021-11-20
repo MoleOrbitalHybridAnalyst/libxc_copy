@@ -72,7 +72,7 @@ static const double pbe_bcgp_values[PBE_N_PAR] =
 static const double pbe_fe_values[PBE_N_PAR] =
   {0.437, 0.346};
 static const double pbe_rr_values[PBE_N_PAR] =
-  {1.686, MU_PBE};
+  {1.968, MU_PBE};
 
 #include "decl_gga.h"
 #include "maple2c/gga_exc/gga_x_pbe.c"
